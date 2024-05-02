@@ -1,0 +1,10 @@
+{
+    </div> style="position: relative;">
+   <img src="madurai.png" style="position: absolute; left: 60px; top: 120px;">
+</div>
+<img src="madurai.png" style="animation: move 5s ease-in-out infinite;">
+@keyframes move {
+  from {left: 0;}
+  to {left: 110px;}
+}
+}
